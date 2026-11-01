@@ -1,0 +1,6 @@
+{
+  "name": "Life OS Notes & Planner",
+  "description": "แอปจดบันทึกและจัดการชีวิต ออกแบบให้อ่านง่าย จดสะดวกรวดเร็ว คลีนสบายตา พร้อมระบบ Focus Tasks และ Knowledge Base",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
